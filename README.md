@@ -18,5 +18,7 @@ https://img.shields.io/amo/rating/JAVASCRIPT?label=Javascript&logo=JAVASCRIPT
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
 	
 
-
+<div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asroq1)](https://github.com//github-readme-stats)
+
+<div align=center>
