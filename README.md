@@ -18,6 +18,7 @@ I'm interested in Front-end Technice and I'm learning ReactJS 'cause Want to be 
 * UI/UX
 
 <div align=center>
+	
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/hyunseop-jung-56889a207/)
 	
 <div>
