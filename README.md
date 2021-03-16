@@ -5,9 +5,9 @@
   </div>
 
 ### About me
-Hi there I'm Jung! living in SouthKorea,
-I Love to code some WebApp 
-I'm interested in Front-end Technice and I'm learning ReactJS 'cause Want to be Front-end Developer 
+
+Hi there I'm Jung!
+Living in South Korea, I Love to code some WebApp I'm interested in Front-end Technic, and I'm learning ReactJS 'cause Want to be Front-end Developer.
 
 ### Intersted in
 
