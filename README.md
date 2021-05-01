@@ -9,8 +9,8 @@
 Front-end Developer Who loves React
 
 <div align=center>
+  	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
-	
 <div>
 
 	
