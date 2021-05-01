@@ -5,11 +5,8 @@
  https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
   </div>
 
-### About me
-
-Hi there I'm Jung!
-Living in South Korea, I Love to code some WebApp I'm interested in Front-end Technic, and I'm learning ReactJS 'cause Want to be Front-end Developer.
-
+## About me
+Front-end Developer Who loves React
 
 <div align=center>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
