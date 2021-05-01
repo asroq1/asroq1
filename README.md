@@ -9,17 +9,8 @@
 Hi there I'm Jung!
 Living in South Korea, I Love to code some WebApp I'm interested in Front-end Technic, and I'm learning ReactJS 'cause Want to be Front-end Developer.
 
-### Intersted in
-
-* CSS3
-* ReactJS
-* TypeScript
-* GraphQL
-* UI/UX
 
 <div align=center>
-	
-
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
 	
 <div>
