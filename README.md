@@ -8,14 +8,14 @@
 ## About me
 Front-end Developer Who loves React
 
-<div align=center>
-  	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
-<div>
-
 	
 <div align=center>
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asroq1)](https://github.com//github-readme-stats)
 
 <div align=center>
+
+<div align=center>
+  https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@asroq1	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:asroq98@gmail.com)
+<div>
