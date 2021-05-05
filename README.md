@@ -21,7 +21,7 @@ Front-end Developer Who loves React
 
 ## Contact me
 
-[![Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)]&link=https://velog.io/@asroq1)
+[![Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@asroq1)
 
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asroq98@gmail.com)
