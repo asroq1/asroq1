@@ -1,6 +1,6 @@
-<p align="right">
+<p align="center">
 	
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=asroq1)](https://solved.ac/asroq1)
+![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={asroq1}&theme=blue-green)
 
 </p>
 
