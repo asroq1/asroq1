@@ -1,6 +1,6 @@
 <p align="center">
 	
-![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={asroq1}&theme=blue-green)
+![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Jung}&theme=blue-green)
 
 </p>
 
