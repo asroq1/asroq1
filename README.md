@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
 	
 ![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asroq1&theme=blue-green)
 
-</p>
+</div>
 
 
 ## Tech Stack
