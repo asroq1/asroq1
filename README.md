@@ -38,3 +38,11 @@ const aboutMe = {
 	   affiliation : ["42Seoul Cadet"]
 };
 ```
+
+<div align="center">
+  
+[![hyunjung's 42 stats](https://badge42.herokuapp.com/api/stats/hyunjung)](https://github.com/hyunjung/badge42)
+
+![devicii's github stats](https://github-readme-stats.vercel.app/api?username=asroq1&show_icons=true)
+
+</div>
