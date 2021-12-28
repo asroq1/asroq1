@@ -22,21 +22,19 @@
 
 ## About me
 
-<div align="center">
-  
-![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asroq1&theme=blue-green)
-  
-</div>
-
-<div align="center">
-  
-[![hyunjung's 42 stats](https://badge42.herokuapp.com/api/stats/hyunjung)](https://github.com/hyunjung/badge42)
-  
-</div>
-
-## Contact me
-
-[![Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@asroq1)
-
-
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=asroq98@gmail.com)
+```javascript
+const aboutMe = {
+   👨languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C"],
+   🛠 TechStack: {
+       FrontEnd: {
+         js: ["React.js", "Next.js"],
+         css: ["Sass", "Bootstrap", "antd"],
+      },
+       BackEnd: {
+         js: ["Node.js", "Express"],
+      },
+       databases: [""MySQL"],
+   },
+	   affiliation : ["42Seoul Cadet"]
+};
+```
