@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 	
 ![devicii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asroq1&theme=blue-green)
 [![hyunjung's 42 stats](https://badge42.herokuapp.com/api/stats/hyunjung)](https://github.com/hyunjung/badge42)
