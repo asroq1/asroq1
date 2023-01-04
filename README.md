@@ -24,7 +24,7 @@
 
 ```javascript
 const aboutMe = {
-   👨languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C"],
+   👨languages: ["JavaScript", "TypeScript", "HTML", "CSS", "C", "CPP"],
    🛠 TechStack: {
        FrontEnd: {
          js: ["React.js", "Next.js"],
