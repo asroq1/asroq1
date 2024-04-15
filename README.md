@@ -28,7 +28,7 @@ const aboutMe = {
    🛠 TechStack: {
        FrontEnd: {
          js: ["React.js", "Next.js"],
-         css: ["Sass", "Bootstrap", "antd"],
+         css: ["MUI", "Bootstrap", "antd"],
       },
        BackEnd: {
          js: ["Node.js", "Express"],
